@@ -9,6 +9,7 @@ namespace PISSSSSS
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
             Console.WriteLine("Edited");
+            Console.WriteLine("Dva puta");
         }
     }
 }
