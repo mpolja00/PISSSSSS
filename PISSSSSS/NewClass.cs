@@ -10,6 +10,7 @@ namespace PISSSSSS
         {
             Console.WriteLine("Ovo je nova klasa!");
             Console.WriteLine("Conflict");
+            Console.WriteLine("Fixed all issues");
         }
     }
 }
