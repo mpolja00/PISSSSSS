@@ -9,6 +9,7 @@ namespace PISSSSSS
         static void Main(string[] args)
         {
             Console.WriteLine("Ovo je nova klasa!");
+            //random comment
         }
     }
 }
