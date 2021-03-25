@@ -10,6 +10,8 @@ namespace PISSSSSS
             Console.WriteLine("Novo");
             Console.WriteLine("Edited");
             Console.WriteLine("Dva puta");
+            
+            //Projektiranje informacijskih sustava
         }
     }
 }
